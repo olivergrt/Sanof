@@ -1,0 +1,12 @@
+C:\Users\olive\Downloads\projetGSB-master\projetGSB-master\Bibliothèque\bin\Debug\Bibliothèque.dll
+C:\Users\olive\Downloads\projetGSB-master\projetGSB-master\Bibliothèque\bin\Debug\Bibliothèque.pdb
+C:\Users\olive\Downloads\projetGSB-master\projetGSB-master\Bibliothèque\obj\Debug\Bibliothèque.csproj.AssemblyReference.cache
+C:\Users\olive\Downloads\projetGSB-master\projetGSB-master\Bibliothèque\obj\Debug\Bibliothèque.csproj.CoreCompileInputs.cache
+C:\Users\olive\Downloads\projetGSB-master\projetGSB-master\Bibliothèque\obj\Debug\Bibliothèque.dll
+C:\Users\olive\Downloads\projetGSB-master\projetGSB-master\Bibliothèque\obj\Debug\Bibliothèque.pdb
+C:\Users\olive\Documents\Epreuve E5\projetGSB-E5\Bibliothèque\bin\Debug\Bibliothèque.dll
+C:\Users\olive\Documents\Epreuve E5\projetGSB-E5\Bibliothèque\bin\Debug\Bibliothèque.pdb
+C:\Users\olive\Documents\Epreuve E5\projetGSB-E5\Bibliothèque\obj\Debug\Bibliothèque.csproj.AssemblyReference.cache
+C:\Users\olive\Documents\Epreuve E5\projetGSB-E5\Bibliothèque\obj\Debug\Bibliothèque.csproj.CoreCompileInputs.cache
+C:\Users\olive\Documents\Epreuve E5\projetGSB-E5\Bibliothèque\obj\Debug\Bibliothèque.dll
+C:\Users\olive\Documents\Epreuve E5\projetGSB-E5\Bibliothèque\obj\Debug\Bibliothèque.pdb
